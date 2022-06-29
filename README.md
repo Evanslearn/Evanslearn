@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evanslearn
 - 👀 I’m interested in physics, computer science, technology and the list goes on!
-- 🌱 I’m currently learning python, java, sql, html, css, javascript, pytest and selenium.
+- 🌱 I’m currently learning python, flask, sql, html, css, javascript, pytest and selenium.
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
